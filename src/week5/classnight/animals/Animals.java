@@ -66,7 +66,7 @@ public class Animals {
   }
   
   void run() {
-    Dog dog = new Dog("Bananas", 5, "Ralphy");
+    Dog dog = new Dog("Bananas", 5, "Alex");
     System.out.println(dog.toString());
     
     Dog fussy = new Dog("Fussy", 3, "Peaches");
